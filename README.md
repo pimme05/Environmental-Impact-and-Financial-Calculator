@@ -1,6 +1,6 @@
 # WasteWise Impact Calculator
 
-Tool developed for the **Hult Prize** to measure the impact of PET recycling in Thailand.
+Tool developed for the **Hult Prize competition** to measure the impact of PET recycling in Thailand.
 
 ## Overview
 - Calculates **environmental benefits** (CO₂ avoided) from PET collected.  
